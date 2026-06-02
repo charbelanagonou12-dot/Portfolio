@@ -1,4 +1,4 @@
 # Portfolio
-char.html
+index.html
 char.css
 CV.pdf
